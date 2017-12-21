@@ -1,4 +1,4 @@
-update=12/1/2017 9:51:19 AM
+update=12/13/2017 9:57:25 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,4 +61,5 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=KLIB
+LibName33=tms320c6748
+LibName34=C:/Users/h102538/Documents/GitHub/K2/K/KLIB
