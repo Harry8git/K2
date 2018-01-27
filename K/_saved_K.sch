@@ -843,4 +843,6 @@ $EndComp
 Connection ~ 13950 3750
 Wire Wire Line
 	14850 4350 14850 4050
+Entry Wire Line
+	13550 6150 13650 6250
 $EndSCHEMATC
